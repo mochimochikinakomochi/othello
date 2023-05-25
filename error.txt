@@ -1,0 +1,2 @@
+Expected `onClick` listener to be a function, instead got a value of `object` type.
+=> propsを{}で囲むのを忘れていた
